@@ -11,5 +11,6 @@ public class CalculateFactorial {
 
 		}
 		System.out.println(fact);
-	}
+		System.out.println("Code completed");	
+}
 }
