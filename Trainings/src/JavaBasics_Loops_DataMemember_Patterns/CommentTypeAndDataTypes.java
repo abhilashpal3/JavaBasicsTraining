@@ -1,6 +1,6 @@
 package JavaBasics_Loops_DataMemember_Patterns;
 
-public class Session1CommentAndDataType {
+public class CommentTypeAndDataTypes {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
