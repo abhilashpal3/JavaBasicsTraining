@@ -15,9 +15,9 @@ public class WrapperClassSamples {
 		boolean d = Boolean.parseBoolean(v);
 		System.out.println("boolean result = " + d);
 
-		// To convert integer to string
+		// To convert integer to string.
 
-		int i = 7;
+		int i = 7; 
 
 		String i1 = String.valueOf(i);
 		System.out.println("String converted value" + i1);
